@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pkay025
-- 👀 I’m interested in ...exploring and learning more about the web development
-- 🌱 I’m currently learning ...React native
-- 💞️ I’m looking to collaborate on ...Networking
+- 👀 I’m interested in ...exploring and learning more about Computer Hardware 
+- 🌱 I’m currently learning ...React.js
+- 💞️ I’m looking to collaborate on ...Computer Networking
 - 📫 How to reach me ...nunoomensahemmanuel224@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...I love to play drums
