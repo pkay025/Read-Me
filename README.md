@@ -6,7 +6,7 @@
 
 </p>
 <!-- <h1 align="center">Hi👋, I'm Emmanuel Nunoo Mensah but call me Paakow </h1> -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Slab&size=22&duration=2000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Hey+There+%F0%9F%91%8B,+I'm+Emmanuel+Nunoo Mensah!;Passionate+Mobile+App+and +Web+Developer+%F0%9F%92%BB;Building+Scalable+and+Efficient+Applications+%E2%9C%A8;Loves+Problem+Solving+%E2%9D%A4%EF%B8%8F;Always+Learning+ Exploring+%F0%9F%92%A1" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Slab&size=22&duration=2000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Hey+There+%F0%9F%91%8B,+I'm+Emmanuel+Nunoo Mensah!;Passionate+Mobile+App+and +Web+Developer+%F0%9F%92%BB;Building+Scalable+and+Efficient+Applications+%E2%9C%A8;Loves+Problem+Solving+%E2%9D%A4%EF%B8%8F;Always+Learning+and +Exploring+%F0%9F%92%A1" style="width: 100%;">
 
 
 
@@ -15,7 +15,8 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h3 align="center">Driven by the relentless pace of innovation, I'm passionate about harnessing technology to shape the future. Inspired by the ever-evolving landscape of Information Technology 💡, I've dedicated myself to mastering the art of Mobile App and Web Development 📱💻, while also exploring the intricate world of Computer Networking and Hardware 🌐 🖥.
+<h3 align="center">📱💻Mobile App and Web Developer | Student 
+🌍 Driven by the relentless pace of innovation 🚀, I'm passionate about harnessing technology to shape the future. Inspired by the ever-evolving landscape of Information Technology 💡, I've dedicated myself to mastering the art of Mobile App and Web Development 📱💻, while also exploring the intricate world of Computer Networking and Hardware 🌐 🖥.
 </p>
 
 <p align="center">
@@ -91,13 +92,13 @@
 <br><br><br><br><br><br><br>
 <div id="user-content-toc">
   <ul align="center">
- <h2 style="display: inline-block">Technologies mostly used 👨🏻‍💻</h2>
+ <h2 style="display: inline-block">Technologies I mostly use 👨🏻‍💻</h2>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,figma,github,html,java,js,mysql,nodejs,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,figma,github,html,java,js,mysql,nodejs,react,php,python,vscode&perline=14" />
   </a>
 </p>
 
@@ -111,15 +112,13 @@
   &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Geeks For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/react.js%23092E20.svg?&style=plastic&logo=react.js&logoColor=white" /></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
