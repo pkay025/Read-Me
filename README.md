@@ -15,10 +15,10 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h3 align="center">📱💻Mobile App and Web Developer | Student /h3>
-<h3 align="left">
+<h3 align="center">📱💻Mobile App and Web Developer | Student
+<h2 align="left">
 🌍 Driven by the relentless pace of innovation 🚀, I'm passionate about harnessing technology to shape the future. Inspired by the ever-evolving landscape of Information Technology 💡, I've dedicated myself to mastering the art of Mobile App and Web Development 📱💻, while also exploring the intricate world of Computer Networking and Hardware 🌐 🖥.
-</h3>
+</h2>
 
 <p align="center">
   <a href="" target="_blank">
@@ -126,7 +126,7 @@
 
 
 <h3 align="left">Support My Works:</h3>
-<p><a href="https://www.buymeacoffee.com/pkay025> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Paakow" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/pkay025"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Paakow" /></a></p><br><br>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
