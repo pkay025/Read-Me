@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Nunoo Mensah</h1>
 <h3 align="center">An aspiring and innovative software engineer from Ghana</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkay025&label=Profile%20views&color=0e75b6&style=flat" alt="pkay025" /> </p>
-
-<a href="https://instagram.com/mister_nunoo33" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mister_nunoo33" /></a>
 
 - 🌱 I’m currently learning **React Native, and NestJS**
 
