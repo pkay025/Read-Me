@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkay025&label=Profile%20views&color=0e75b6&style=flat" alt="pkay025" /> </p>
 
-- 🌱 I’m currently learning **React Native, and NestJS**
+- 🌱 I’m currently learning **React Native, and ReactJS**
 
 - 💬 Ask me about **Operating Systems and ReactJS**
 
