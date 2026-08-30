@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Linux System Administration, Windows Server, Cloud Computing, and Automation with Bash**
 
-- 💬 Ask me about **Linux, Windows Server, Networking, System Administration, and Cloud Computing**
+- 💬 Ask me about **Linux, Windows Server, Networking, Operating Systems, System Administration, and Cloud Computing**
 
 - 📫 How to reach me **nunoomensahemmanuel224@gmail.com**
 
