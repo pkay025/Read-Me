@@ -57,7 +57,8 @@ The project include scripts for:
 The goal is to reduce repetitive administrative work and strengthen my
 Linux automation and Bash scripting skills.
 
-**Repository:** Coming soon
+**Repository:** 
+https://github.com/pkay025/sysadmin-toolkit
 
 ---
 
