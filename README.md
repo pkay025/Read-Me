@@ -1,44 +1,20 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Nunoo Mensah</h1>
+<h3 align="center">An aspiring and innovative system administrator from Ghana</h3>
 
-<h3 align="center">
-  Aspiring System Administrator | Linux | Windows Server | Cloud | Automation
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pkay025&label=Profile%20views&color=0e75b6&style=flat" alt="pkay025" />
-</p>
-
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pkay025&label=Profile%20views&color=0e75b6&style=flat" alt="pkay025" /> </p>
 
 ## About Me
-
-I'm an aspiring System Administrator from Ghana with a strong interest in
-Linux, Windows Server, networking, cloud computing, and automation.
 
 I enjoy building hands-on projects, troubleshooting system issues, and
 automating repetitive tasks to improve efficiency.
 
-🌱 Currently learning and working with:
+🌱 I'm continuously building hands-on projects to strengthen my skills in: **Linux System Administration, Windows Server & Active Directory, Cloud Computing, Bash Automation, Computer Networking, Virtualization**
 
-- Linux System Administration
-- Windows Server & Active Directory
-- Cloud Computing
-- Bash Automation
-- Computer Networking
-- Virtualization
+💬 Ask me about **Linux, Windows Server, Active Directory, Networking, System Administration, Cloud Computing, Bash**
 
-💬 Ask me about:
-
-- Linux
-- Windows Server
-- Active Directory
-- Networking
-- System Administration
-- Cloud Computing
-- Bash
-
-⚡ Fun fact: I enjoy solving system issues, automating repetitive tasks,
-and I'm passionate about football.
+📫 How to reach me **nunoomensahemmanuel224@gmail.com**
+  
+⚡ Fun fact **I enjoy solving system issues, automating repetitive tasks, and I'm passionate about football.**
 
 ---
 
@@ -58,10 +34,32 @@ administration tasks such as:
 - System troubleshooting
 - Bash scripting and automation
 
----
-
 **Repository:** 
 https://github.com/pkay025/linux-admin-lab
+
+---
+
+### Bash System Administration Toolkit
+
+A collection of Bash scripts designed to automate common Linux system
+administration and monitoring tasks.
+
+The project will include scripts for:
+
+- System information
+- User management
+- Disk usage monitoring
+- Service monitoring
+- Log analysis
+- Automated backups
+- System health checks
+
+The goal is to reduce repetitive administrative work and strengthen my
+Linux automation and Bash scripting skills.
+
+**Status:** Currently building
+
+**Repository:** Coming soon
 
 ## Skills & Technologies
 
@@ -137,7 +135,7 @@ I'm continuously building hands-on projects to strengthen my skills in:
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/emmanuel-nunoo-mensah-900295332/" target="_blank">
@@ -148,8 +146,6 @@ I'm continuously building hands-on projects to strengthen my skills in:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
-
-📫 **Email:** nunoomensahemmanuel224@gmail.com
 
 ---
 
