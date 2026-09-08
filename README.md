@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=pkay025&label=Profile%20views&color=0e75b6&style=flat" alt="pkay025" />
 </p>
 
-## About Me
-
-I enjoy building hands-on projects, troubleshooting system issues, and
-automating repetitive tasks to improve efficiency.
-
 🌱 I'm continuously building hands-on projects to strengthen my skills in: **Linux System Administration, Windows Server & Active Directory, Cloud Computing, Bash Automation, Computer Networking, Virtualization**
 
 💬 Ask me about **Linux, Windows Server, Active Directory, Networking, System Administration, Cloud Computing, Bash**
@@ -36,6 +31,9 @@ administration tasks such as:
 - System troubleshooting
 - Bash scripting and automation
 
+The goal is to develop practical skills in managing, configuring, troubleshooting,
+and maintaining Linux systems.
+
 **Repository:** 
 https://github.com/pkay025/linux-admin-lab
 
@@ -58,8 +56,6 @@ The project include scripts for:
 
 The goal is to reduce repetitive administrative work and strengthen my
 Linux automation and Bash scripting skills.
-
-**Status:** Currently building
 
 **Repository:** Coming soon
 
