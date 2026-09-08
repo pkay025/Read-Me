@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Nunoo Mensah</h1>
 <h3 align="center">An aspiring and innovative system administrator from Ghana</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pkay025&label=Profile%20views&color=0e75b6&style=flat" alt="pkay025" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pkay025&label=Profile%20views&color=0e75b6&style=flat" alt="pkay025" />
+</p>
 
 ## About Me
 
@@ -61,6 +63,8 @@ Linux automation and Bash scripting skills.
 
 **Repository:** Coming soon
 
+---
+
 ## Skills & Technologies
 
 ### System Administration
@@ -118,20 +122,6 @@ Linux automation and Bash scripting skills.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
 </p>
-
----
-
-## Currently Building
-
-I'm continuously building hands-on projects to strengthen my skills in:
-
-- Linux administration
-- Windows Server
-- Active Directory
-- Networking
-- Cloud infrastructure
-- Bash automation
-- IT support and troubleshooting
 
 ---
 
