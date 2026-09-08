@@ -44,7 +44,7 @@ https://github.com/pkay025/linux-admin-lab
 A collection of Bash scripts designed to automate common Linux system
 administration and monitoring tasks.
 
-The project will include scripts for:
+The project include scripts for:
 
 - System information
 - User management
