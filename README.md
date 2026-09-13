@@ -7,7 +7,7 @@
 
 🌱 I'm continuously building hands-on projects to strengthen my skills in: **Linux System Administration, Windows Server & Active Directory, Cloud Computing, Bash Automation, Computer Networking, Virtualization**
 
-💬 Ask me about **Linux, Windows Server, Active Directory, Networking, System Administration, Cloud Computing, Bash**
+💬 Ask me about **Linux, Windows Server, Active Directory, Networking, System Administration, and Cloud Computing**
 
 📫 How to reach me **nunoomensahemmanuel224@gmail.com**
   
