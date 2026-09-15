@@ -11,7 +11,7 @@
 
 📫 How to reach me **nunoomensahemmanuel224@gmail.com**
   
-⚡ Fun fact **I enjoy solving system issues, automating repetitive tasks, and I'm passionate about football.**
+⚡ Fun fact **I enjoy solving system issues, and automating repetitive tasks. I'm passionate about football.**
 
 ---
 
