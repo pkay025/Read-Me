@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Nunoo Mensah</h1>
+<h1 align="center">Hi👋, I'm Emmanuel Nunoo Mensah</h1>
 <h3 align="center">An aspiring and innovative system administrator from Ghana</h3>
 
 <p align="center">
